@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563913772916",
+    "project_id": "loanconsultation-fea57",
+    "storage_bucket": "loanconsultation-fea57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563913772916:android:ec807b60ed5d75046b6621",
+        "android_client_info": {
+          "package_name": "com.example.loanconsultation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563913772916-nsdp0ik64vm3li5pb3a9bcq5hu1fh92b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz68_HX5ymgWs_eoJ_DbQ4lpddz7VawyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563913772916-nsdp0ik64vm3li5pb3a9bcq5hu1fh92b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
